@@ -99,8 +99,8 @@ Grab the file for your computer from the **[latest release](https://github.com/a
 
 ## ✦ Install
 
-The beta builds are **not code-signed yet**, so macOS and Windows show a warning the first time.
-That's expected for this beta; here's how to get past it.
+The beta builds are **not notarized by Apple or signed for Windows yet**, so macOS and Windows show a
+warning the first time. That's expected for this beta; here's how to get past it.
 
 ### 🍎 macOS
 
@@ -108,8 +108,9 @@ That's expected for this beta; here's how to get past it.
 2. Open satsetyu from Applications. macOS says it can't verify the developer.
 3. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to the
    satsetyu message, then confirm with your password.
-4. If macOS instead says the app **"is damaged and can't be opened"**, run this once in Terminal, then
-   open satsetyu again:
+4. If macOS instead says the app **"is damaged and can't be opened"**, or satsetyu closes right
+   after you open it, you most likely have v0.2.0-beta.1. Download the latest release (v0.2.0-beta.2
+   or newer, properly ad-hoc signed), or run this once in Terminal, then open satsetyu again:
 
    ```bash
    xattr -dr com.apple.quarantine /Applications/satsetyu.app
