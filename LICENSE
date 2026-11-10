@@ -1,0 +1,59 @@
+satsetyu — Public Beta License
+
+Copyright (c) 2026 arjunastrw (https://github.com/arjunastrw). All rights reserved.
+
+This license covers the satsetyu installers, application binaries, update files and documentation
+published in this repository (the "Beta"). The source code of satsetyu is not part of this
+repository and is not licensed to you.
+
+1. Limited evaluation license.
+   The copyright holder grants you a personal, non-exclusive, non-transferable, revocable license
+   to download, install and use the Beta on computers you own or control, only to evaluate it
+   during the trial period built into the Beta (3 days from first launch on each computer, and no
+   later than the expiry date of each beta build).
+
+2. Restrictions.
+   Without the prior written permission of the copyright holder, you may not, in whole or in
+   part:
+   a) copy, modify, translate or create derivative works of the Beta;
+   b) distribute, publish, sublicense, sell, rent, lease, lend or otherwise make the Beta
+      available to any third party other than by sharing a link to this repository;
+   c) use the Beta to provide a hosted, SaaS, reseller or service-bureau offering;
+   d) bypass, disable, reset or tamper with the trial, licensing, activation or update mechanism
+      of the Beta, including by changing the computer clock or deleting the trial records;
+   e) reverse engineer, decompile or disassemble any part of the Beta, except to the extent
+      applicable law expressly permits this despite this restriction;
+   f) remove or alter any copyright, trademark or proprietary notice.
+
+3. End of the trial.
+   When the trial period ends, the Beta locks itself and this license to use it ends. Continued
+   use requires separate terms offered by the copyright holder. Your own data (sessions, settings,
+   upload queue and photos) remains on your computer.
+
+4. Third-party components and services.
+   The Beta includes third-party open-source components. Their own license terms govern those
+   components, and this license does not restrict any rights those terms grant.
+   The Beta is an independent tool that works with the Fotoyu platform. It is not affiliated
+   with, endorsed by or a product of Fotoyu or PT Super Giga Generasi. You are responsible for
+   complying with the terms of every service you connect the Beta to.
+
+5. Beta software, no warranty.
+   The Beta is pre-release software and may contain errors. THE BETA IS PROVIDED "AS IS", WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+6. Limitation of liability.
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   INCLUDING LOST SALES, LOST PHOTOS OR ACCOUNT ACTIONS BY THIRD-PARTY PLATFORMS, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE BETA OR
+   THE USE OF OR OTHER DEALINGS IN THE BETA.
+
+7. Termination.
+   Any use outside this license automatically ends it. On termination you must uninstall the Beta
+   and delete every copy in your possession or control.
+
+8. Governing law.
+   This license is governed by the laws of the Republic of Indonesia.
+
+For licensing, partnership or commercial inquiries, contact the copyright holder through
+https://github.com/arjunastrw.
